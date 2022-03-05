@@ -1,0 +1,124 @@
+.rosto{
+    margin-top: 60px;
+    margin-left: 30px;
+    width: auto;
+    height:100px;
+    z-index: -1;
+}
+
+.corpo {
+    margin-top: 50px;
+    width: 200px;
+    height: 250px;
+    background-color: #f9e84a;
+    z-index:-1;
+}
+
+.camisa{
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+    background-color: #f7f8f4;
+    z-index:1;
+}
+
+.gola{
+    margin-left: 30px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 41px 70px 0 70px;
+    border-color: #fffefe transparent transparent transparent;
+    z-index:1;
+}
+
+.gravata-superior{
+    margin-top: -40px;
+    margin-left: -15px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 25px 20px 0 20px;
+    border-color: #ad4c45 transparent transparent transparent;
+    z-index:1;
+}
+
+.gravata-inferior{
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 15px 30px 15px;
+    border-color: transparent transparent #b04d46 transparent;
+    z-index:1;
+}
+
+.calca {
+    margin-top: 0px;
+    margin-left: -12px;
+    width: 200px;
+    height: 70px;
+    background-color: #a98553;
+    z-index:-9999;
+}
+
+.perna-calca1{
+    margin-left: 35px;
+    margin-top:20px;
+    width: 45px;
+    height: 20px;
+    background-color: #a98553;
+}
+
+.perna-calca2{
+    margin-left: 130px;
+    margin-top:-80px;
+    width: 45px;
+    height: 20px;
+    background-color: #a98553;
+}
+
+.perna1 {
+    margin-left: 55px;
+    margin-top: 0px;
+    width: 10px;
+    height: 60px;
+    background-color: #f9e84a;
+    z-index:-1
+}
+
+.perna2 {
+    margin-left: 150px;
+    margin-top: 0px;
+    width: 10px;
+    height: 60px;
+    background-color: #f9e84a;
+    z-index:-1
+}
+
+.mancha-grande{
+    margin-top: -150px;
+    margin-left: 10px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    overflow: hidden;
+    float: left;
+    /* margin: 15px; */
+    transition: 0.3s ease;
+    background-color: #bab81b;
+}
+
+.mancha-pequena{
+    margin-top: -50px;
+    margin-left: 20px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    overflow: hidden;
+    float: left;
+    /* margin: 15px; */
+    transition: 0.3s ease;
+    background-color: #bab81b;
+}

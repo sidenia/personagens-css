@@ -1,0 +1,9 @@
+
+#f9e84a amarelo corpo
+#bab81b verde bolas
+#d65c3a vermelho abaixo da boca
+#45c4f0 azul olhos
+#a98553 calça marrom 
+#b04d46 gravata vermelha
+#f7f8f4 camisa branca
+#fefefe gola camisa
